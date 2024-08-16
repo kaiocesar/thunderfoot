@@ -1,0 +1,76 @@
+{
+  "teams": [
+    {
+      "name": "Botafogo",
+      "imageUrl": "https://logodetimes.com/wp-content/uploads/botafogo-250x170.png"
+    },
+    {
+      "name": "Flamengo",
+      "imageUrl": "https://logodetimes.com/wp-content/uploads/flamengo-250x170.png"
+    },
+    {
+      "name": "Fluminense",
+      "imageUrl": "https://logodetimes.com/wp-content/uploads/fluminense-250x170.png"
+    },
+    {
+      "name": "Vasco",
+      "imageUrl": "https://logodetimes.com/wp-content/uploads/vasco-da-gama-250x170.png"
+    },
+    {
+      "name": "América MG",
+      "imageUrl": "https://logodetimes.com/wp-content/uploads/america-mineiro-250x170.png"
+    },
+    {
+      "name": "Atlético MG",
+      "imageUrl": "https://logodetimes.com/wp-content/uploads/atletico-mineiro-250x170.png"
+    },
+    {
+      "name": "Cruzeiro",
+      "imageUrl": "https://logodetimes.com/wp-content/uploads/cruzeiro-250x170.png"
+    },
+    {
+      "name": "Corinthians",
+      "imageUrl": "https://logodetimes.com/wp-content/uploads/corinthians-250x170.png"
+    },
+    {
+      "name": "Palmeiras",
+      "imageUrl": "https://logodetimes.com/wp-content/uploads/palmeiras-250x170.png"
+    },
+    {
+      "name": "Santos",
+      "imageUrl": "https://logodetimes.com/wp-content/uploads/santos-250x170.png"
+    },
+    {
+      "name": "São Paulo",
+      "imageUrl": "https://logodetimes.com/wp-content/uploads/sao-paulo-250x170.png"
+    },
+    {
+      "name": "Athlético PR",
+      "imageUrl": "https://logodetimes.com/wp-content/uploads/athletico-paranaense-250x170.png"
+    },
+    {
+      "name": "Coritiba",
+      "imageUrl": "https://logodetimes.com/wp-content/uploads/coritiba-250x170.png"
+    },
+    {
+      "name": "Grêmio",
+      "imageUrl": "https://logodetimes.com/wp-content/uploads/gremio-250x170.png"
+    },
+    {
+      "name": "Internacional",
+      "imageUrl": "https://logodetimes.com/wp-content/uploads/internacional-250x170.png"
+    },
+    {
+      "name": "Juventude",
+      "imageUrl": "https://logodetimes.com/wp-content/uploads/juventude-rs-250x170.png"
+    },
+    {
+      "name": "Avaí",
+      "imageUrl": "https://logodetimes.com/wp-content/uploads/avai-250x170.png"
+    },
+    {
+      "name": "Criciuma",
+      "imageUrl": "https://logodetimes.com/wp-content/uploads/criciuma-250x170.png"
+    }
+  ]
+}
